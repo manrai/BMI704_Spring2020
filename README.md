@@ -1,17 +1,21 @@
 # BMI 704: Data Science for Medical Decision Making<br>
 ## Harvard Medical School<br>
 ### Spring 2020<br>
+### MW 9:45am-11:15am, Countway 403
 ### Course Directors: Chirag J. Patel, Arjun K. Manrai
 
 ## Course Description
-Have you ever Googled a health-related question and been dumbfounded by the hits? Gotten a lab test result and wondered if it applies to a person like you? Wondered what an "odds ratio" for a genetic variant you inherited is? Explanations of why we are who we are, and what diseases we might get, and why some of us are at risk, are often unsatisfactory. It’s time to become an active consumer: in this course, we will develop skills in querying large health data streams to make informed decisions through the lens of data science. This course will survey the current data and methodological approaches to conduct integrative high-throughput investigations merging genomic, exposomic, and phenomic datasets to discover new associations with disease and health. Students will be introduced to statistical decision theory and how modern data science and machine learning approaches can help improve rational medical decision making. Students will be encouraged to find publicly available data (e.g. CDC, NIH dbGaP data) and formulate an original research project for submission to a journal or as a proceedings article.Learning 
+Have you ever Googled a health-related question and been dumbfounded by the hits? Gotten a lab test result and wondered if it applies to a person like you? Wondered what an "odds ratio" for a genetic variant you inherited is? Explanations of why we are who we are, and what diseases we might get, and why some of us are at risk, are often unsatisfactory. Interpreting how the phenome (e.g., disease) is connected to the exposome (e.g, our environment) and genome is challenging, especially in large and complex datasets. How these large data can be translated to decisions is even more elusive. It’s time to become an active consumer: in this course, we will develop skills in querying large real-world (e.g., <b>electronic medical records, biobanks</b>) and epidemiological data (e.g., <b>health surveys and longitudinal cohorts</b>) streams to make informed decisions through the lens of data science. This course will survey the current data and methodological approaches to conduct integrative high-throughput investigations merging genomic, exposomic, and phenomic datasets to discover new associations with disease and health. Students will be introduced to statistical decision theory and how modern data science and machine learning approaches can help improve rational medical decision making. Students will conduct a guided project analyzing data from the <b>US Centers for Disease Control and Prevention (CDC)</b> that will include contributing to an interactive textbook of data science methods. Guest lectures will demonstrate use-cases in the fields of real-world prediction in the clinic and public health.
 
-Goals:
-1. Develop basic skills in biomedical data science, including R/RStudio, Python and cloud-based infrastructure.
-2. Understand how decision theory and machine learning can enhance clinical care.
-3. Develop your own prediction algorithms that integrate exposomic, genomic, and phenomic data.
-4. Execute data-driven methods on current day computing clusters.
-5. Interpret statistical estimates and biomedical findings in the published literature (and the lay press).
+### Goals:
+1. Develop basic skills in biomedical data science, including R/RStudio and cloud-based infrastructure.
+2. Interpret statistical estimates and biomedical findings in the published literature (and the lay press) from epidemiological studies.
+3. Understand how decision theory and machine learning can enhance clinical care.
+4. Develop your own prediction algorithms that integrate exposomic, genomic, and phenomic data.
+5. Execute data-driven methods on current day computing clusters.
+
+### Prerequisites
+Familiarity with programming (e.g., R or Python or CS50 equivalent) in a Linux environment (i.e., use of the command line).  Students will be provided with access to a compute cluster (Google Cloud hosted).
 
 # Course Calendar
 | Date (Week)  | Topics | Readings (before lecture) | Assignments (due 11:00pm) |
