@@ -60,7 +60,9 @@ Descriptions below are adapted from the URLs.
 |Bates, D. W., L. L. Leape, D. J. Cullen, N. Laird, L. A. Petersen, J. M. Teich, E. Burdick, et al. 1998. “Effect of Computerized Physician Order Entry and a Team Intervention on Prevention of Serious Medication Errors.” JAMA: The Journal of the American Medical Association 280 (15): 1311–16.|
 |Benjamini, Y., and Y. Hochberg. 1995. “Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing.” Journal of the Royal Statistical Society. Series B, Statistical Methodology 57 (January): 289–300.|
 |Charlson, M. E., P. Pompei, K. L. Ales, and C. R. MacKenzie. 1987. “A New Method of Classifying Prognostic Comorbidity in Longitudinal Studies: Development and Validation.” Journal of Chronic Diseases 40 (5): 373–83.|
+|Cheng Y.J., Kanaya, A.M., et al. 2019. “Prevalence of Diabetes by Race and Ethnicity in the United States, 2011-2016.” JAMA: The Journal of the American Medical Association 322(24):2389-2398.|
 |Collins, Francis S., and Harold Varmus. 2015. “A New Initiative on Precision Medicine.” The New England Journal of Medicine 372 (9): 793–95.|
+|D'Agnostino, R.B., Ramachandran, S., Pencina, M.J. et al. "General Cardiovascular Risk Profile for Use in Primary Care." Circulation 117(6):743-53.|
 |Di, Qian, Yan Wang, Antonella Zanobetti, Yun Wang, Petros Koutrakis, Christine Choirat, Francesca Dominici, and Joel D. Schwartz. 2017. “Air Pollution and Mortality in the Medicare Population.” The New England Journal of Medicine 376 (26): 2513–22.|
 |Dockery, D. W., C. A. Pope 3rd, X. Xu, J. D. Spengler, J. H. Ware, M. E. Fay, B. G. Ferris Jr, and F. E. Speizer. 1993. “An Association between Air Pollution and Mortality in Six U.S. Cities.” The New England Journal of Medicine 329 (24): 1753–59.|
 |Estruch, Ramón, Emilio Ros, Jordi Salas-Salvadó, Maria-Isabel Covas, Dolores Corella, Fernando Arós, Enrique Gómez-Gracia, et al. 2018. “Primary Prevention of Cardiovascular Disease with a Mediterranean Diet Supplemented with Extra-Virgin Olive Oil or Nuts.” The New England Journal of Medicine 378 (25): e34.|
@@ -88,10 +90,13 @@ Descriptions below are adapted from the URLs.
 |Price, Alkes L., Nick J. Patterson, Robert M. Plenge, Michael E. Weinblatt, Nancy A. Shadick, and David Reich. 2006. “Principal Components Analysis Corrects for Stratification in Genome-Wide Association Studies.” Nature Genetics 38 (8): 904–9.|
 |Risch, N., and K. Merikangas. 1996. “The Future of Genetic Studies of Complex Human Diseases.” Science 273 (5281): 1516–17.|
 |Schoenfeld, Jonathan D., and John P. A. Ioannidis. 2012. "Is Everything We Eat Associated with Cancer? A Systematic Cookbook Review--." The American Journal of Clinical Nutrition 97 (1): 127–34.|
-|Szolovits, Peter, and S. G. Pauker. 1978. "Categorical and Probabilistic Reasoning in Medical Diagnosis *." Artificial Intelligence 11 (1): 115–44.|
+|Serghiou S., Patel, C.J., Tan, Y.Y., Koay, P., Ioannidis, J.P.A. "Field-wide meta-analyses of observational associations can map selective availability of risk factors and the impact of model specifications." J. Clin. Epidemiol. 71:58-67.|
+|Szolovits, Peter, and S. G. Pauker. 1978. "Categorical and Probabilistic Reasoning in Medical Diagnosis." Artificial Intelligence 11 (1): 115–44.|
 |Tversky, A., and D. Kahneman. 1974. "Judgment under Uncertainty: Heuristics and Biases." Science 185 (4157): 1124–31.|
 |Visscher, Peter M., Matthew A. Brown, Mark I. McCarthy, and Jian Yang. 2012. “Five Years of GWAS Discovery.” American Journal of Human Genetics 90 (1): 7–24.|
+|Tzoulaki I., Liberopoulous G., Ioannidis, J.P.A. 2009. "Assessment of claims of improved prediction beyond the Framingham risk score." JAMA: The Journal of the American Medical Association 302(21):2345-52.|
 |Visscher, Peter M., Naomi R. Wray, Qian Zhang, Pamela Sklar, Mark I. McCarthy, Matthew A. Brown, and Jian Yang. 2017. “10 Years of GWAS Discovery: Biology, Function, and Translation.” American Journal of Human Genetics 101 (1): 5–22.|
 |Vittinghoff, Eric, David Glidden, Steve Shiboski, and Charles McCulloch. 2005. Regression Methods in Biostatistics: Linear, Logistic, Survival, and Repeated Measures Models. New York: Springer.|
+|Welch H.G., Kramer, B.S., Black, W.C. 2019. “Epidemiologic Signatures in Cancer.” The New England Journal of Medicine 381(14):1378-1386|
 |Wickham, Hadley, and Garrett Grolemund. 2016. R for Data Science: Import, Tidy, Transform, Visualize, and Model Data. “O’Reilly Media, Inc.”|
 |Paul R Burton, David G Clayton, Lon R Cardon, Nick Craddock, Panos Deloukas, Audrey Duncanson, Dominic P Kwiatkowski, et al. 2007. “Genome-Wide Association Study of 14,000 Cases of Seven Common Diseases and 3,000 Shared Controls.” Nature 447 (7145): 661.|
