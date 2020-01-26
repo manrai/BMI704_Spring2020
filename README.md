@@ -61,8 +61,10 @@ Descriptions below are adapted from the URLs.
 | Papers |
 | ------ |
 |Baicker, Katherine, Sarah L. Taubman, Heidi L. Allen, Mira Bernstein, Jonathan H. Gruber, Joseph P. Newhouse, Eric C. Schneider, et al. 2013. “The Oregon Experiment--Effects of Medicaid on Clinical Outcomes.” The New England Journal of Medicine 368 (18): 1713–22.|
+|Barak-Corren Y., Castro, V.M., Javitt, S., Hoffnagle, A.G., Dai, Y., Perlis, R.H., Nock, M.K., Smoller, J.W., Reis, B.Y. 2017. "Predicting Suicidal Behavior From Longitudinal Electronic Health Records." Am J Psychiatry 174(2):154-162.|
 |Bates, D. W., L. L. Leape, D. J. Cullen, N. Laird, L. A. Petersen, J. M. Teich, E. Burdick, et al. 1998. “Effect of Computerized Physician Order Entry and a Team Intervention on Prevention of Serious Medication Errors.” JAMA: The Journal of the American Medical Association 280 (15): 1311–16.|
 |Benjamini, Y., and Y. Hochberg. 1995. “Controlling the False Discovery Rate: A Practical and Powerful Approach to Multiple Testing.” Journal of the Royal Statistical Society. Series B, Statistical Methodology 57 (January): 289–300.|
+|Cami A., Arnold, A., Manzi, S., Reis, B. 2011. "Predicting Adverse Drug Events using Pharmacological Network Models." Science Translational Medicine 3(114):114ra127.|
 |Charlson, M. E., P. Pompei, K. L. Ales, and C. R. MacKenzie. 1987. “A New Method of Classifying Prognostic Comorbidity in Longitudinal Studies: Development and Validation.” Journal of Chronic Diseases 40 (5): 373–83.|
 |Cheng Y.J., Kanaya, A.M., et al. 2019. “Prevalence of Diabetes by Race and Ethnicity in the United States, 2011-2016.” JAMA: The Journal of the American Medical Association 322(24):2389-2398.|
 |Collins, Francis S., and Harold Varmus. 2015. “A New Initiative on Precision Medicine.” The New England Journal of Medicine 372 (9): 793–95.|
