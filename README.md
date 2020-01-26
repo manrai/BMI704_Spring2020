@@ -1,7 +1,6 @@
 # BMI 704: Data Science for Medical Decision Making<br>
 ## Harvard Medical School<br>
 ### Spring 2020<br>
-### MW 9:45am-11:15am, Countway 403
 ### Course Directors: Chirag J. Patel, Arjun K. Manrai
 
 ## Course Description
